@@ -18,6 +18,7 @@ public class PracticaVideo {
         // TODO code application logic here
         String data1;
         String data2;
+        String data3;
     }
     
 }
