@@ -16,6 +16,7 @@ public class PracticaVideo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        String data1;
     }
     
 }
