@@ -20,6 +20,7 @@ public class PracticaVideo {
         String data2;
         String data3;
         String dataFromDevelopBranch;
+        String dataFromFeatureLogin;
     }
     
 }
